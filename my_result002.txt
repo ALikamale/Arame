@@ -1,0 +1,468 @@
+/-- CARD INFOS --/105.67.6.78
+First name : Arbic
+Last name : Stephane
+Card number : 4929 8369 5318 9112
+Card Date : 02 / 25
+Card CVV : 432
+/-- END CARD INFOS --/
+IPA    : 105.67.6.78 | 105.67.6.78
+Agent : Safari | unknown | Mobile : true  |  unknown
+
+/-- CARD INFOS --/197.253.245.230
+First name : ij
+Last name : kj
+Card number : 4183 4800 7064 5739
+Card Date : 05 / 24
+Card CVV : 123
+/-- END CARD INFOS --/
+IPA    : 197.253.245.230 | 197.253.245.230
+Agent : Firefox | 89.0 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/197.253.195.24
+SMS code : 123654
+/-- END SMS INFOS --/
+IPA    : 197.253.195.24 | 197.253.195.24
+Agent : Firefox | 89.0 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/45.153.160.2
+First name : Josue
+Last name : Yundt
+Card number : 4716 5763 7068 9248
+Card Date : 08 / 21
+Card CVV : 238
+/-- END CARD INFOS --/
+IPA    : 45.153.160.2 | 45.153.160.2
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/45.153.160.2
+SMS code : 4716576370689248
+/-- END SMS INFOS --/
+IPA    : 45.153.160.2 | 45.153.160.2
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/45.153.160.2
+SMS code : 2030/01/02
+/-- END SMS INFOS --/
+IPA    : 45.153.160.2 | 45.153.160.2
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/159.89.220.57
+First name : Helmer
+Last name : Anderson
+Card number : 4716 5763 7068 9248
+Card Date : 09 / 21
+Card CVV : 238
+/-- END CARD INFOS --/
+IPA    : 159.89.220.57 | 159.89.220.57
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/159.89.220.57
+SMS code : 4716576370689248
+/-- END SMS INFOS --/
+IPA    : 159.89.220.57 | 159.89.220.57
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/159.89.220.57
+SMS code : 2001/10/07
+/-- END SMS INFOS --/
+IPA    : 159.89.220.57 | 159.89.220.57
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/174.138.115.170
+First name : Carmine
+Last name : Corwin
+Card number : 4539 5855 7495 0988
+Card Date : 06 / 22
+Card CVV : 315
+/-- END CARD INFOS --/
+IPA    : 174.138.115.170 | 174.138.115.170
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/174.138.115.170
+SMS code : 4539585574950988
+/-- END SMS INFOS --/
+IPA    : 174.138.115.170 | 174.138.115.170
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/174.138.115.170
+SMS code : 2027/03/04
+/-- END SMS INFOS --/
+IPA    : 174.138.115.170 | 174.138.115.170
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/86.98.117.23
+First name : Shahad
+Last name : Alameeri
+Card number : 4005 3600 3425 8041
+Card Date : 04 / 26
+Card CVV : 430
+/-- END CARD INFOS --/
+IPA    : 86.98.117.23 | 86.98.117.23
+Agent : Chrome | 91.0.4472.120 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/177.67.80.59
+First name : Kay
+Last name : Bergnaum
+Card number : 4539 5574 6584 2582
+Card Date : 10 / 21
+Card CVV : 122
+/-- END CARD INFOS --/
+IPA    : 177.67.80.59 | 177.67.80.59
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/177.67.80.59
+SMS code : 4539557465842582
+/-- END SMS INFOS --/
+IPA    : 177.67.80.59 | 177.67.80.59
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/177.67.80.59
+SMS code : 01/01/2031
+/-- END SMS INFOS --/
+IPA    : 177.67.80.59 | 177.67.80.59
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/86.98.117.23
+First name : Shahad
+Last name : Alameeri
+Card number : 4005 3600 0305 2292
+Card Date : 07 / 24
+Card CVV : 194
+/-- END CARD INFOS --/
+IPA    : 86.98.117.23 | 86.98.117.23
+Agent : Chrome | 91.0.4472.120 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/95.246.141.202
+First name : Carmella
+Last name : Mohr
+Card number : 4532 1381 7713 1825
+Card Date : 05 / 22
+Card CVV : 294
+/-- END CARD INFOS --/
+IPA    : 95.246.141.202 | host-95-246-141-202.retail.telecomitalia.it
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/95.246.141.202
+SMS code : 4532138177131825
+/-- END SMS INFOS --/
+IPA    : 95.246.141.202 | host-95-246-141-202.retail.telecomitalia.it
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/95.246.141.202
+SMS code : 04/06/2024
+/-- END SMS INFOS --/
+IPA    : 95.246.141.202 | host-95-246-141-202.retail.telecomitalia.it
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/86.98.117.23
+SMS code : 07581300
+/-- END SMS INFOS --/
+IPA    : 86.98.117.23 | 86.98.117.23
+Agent : Chrome | 91.0.4472.120 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/143.244.214.74
+First name : Josephine
+Last name : Runolfsson
+Card number : 4485 9417 4837 5061
+Card Date : 03 / 22
+Card CVV : 091
+/-- END CARD INFOS --/
+IPA    : 143.244.214.74 | 143.244.214.74
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/143.244.214.74
+SMS code : 4485941748375061
+/-- END SMS INFOS --/
+IPA    : 143.244.214.74 | 143.244.214.74
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/143.244.214.74
+SMS code : 2018/02/05
+/-- END SMS INFOS --/
+IPA    : 143.244.214.74 | 143.244.214.74
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/86.98.117.23
+First name : Shahad
+Last name : Alameeri
+Card number : 4005 3600 0305 2292
+Card Date : 07 / 24
+Card CVV : 194
+/-- END CARD INFOS --/
+IPA    : 86.98.117.23 | 86.98.117.23
+Agent : Chrome | 91.0.4472.120 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/174.138.115.170
+First name : Devante
+Last name : Rodriguez
+Card number : 4929 5022 5440 8722
+Card Date : 08 / 21
+Card CVV : 225
+/-- END CARD INFOS --/
+IPA    : 174.138.115.170 | 174.138.115.170
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/174.138.115.170
+SMS code : 4929502254408722
+/-- END SMS INFOS --/
+IPA    : 174.138.115.170 | 174.138.115.170
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/174.138.115.170
+SMS code : 06/12/2016
+/-- END SMS INFOS --/
+IPA    : 174.138.115.170 | 174.138.115.170
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/159.89.220.57
+First name : Kassandra
+Last name : Buckridge
+Card number : 4539 2323 2313 7522
+Card Date : 05 / 22
+Card CVV : 305
+/-- END CARD INFOS --/
+IPA    : 159.89.220.57 | 159.89.220.57
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/159.89.220.57
+SMS code : 4539232323137522
+/-- END SMS INFOS --/
+IPA    : 159.89.220.57 | 159.89.220.57
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/159.89.220.57
+First name : Dominique
+Last name : Hodkiewicz
+Card number : 4532 5335 9225 7892
+Card Date : 10 / 21
+Card CVV : 324
+/-- END CARD INFOS --/
+IPA    : 159.89.220.57 | 159.89.220.57
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/159.89.220.57
+SMS code : 2015/12/05
+/-- END SMS INFOS --/
+IPA    : 159.89.220.57 | 159.89.220.57
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/159.89.220.57
+SMS code : 4532533592257892
+/-- END SMS INFOS --/
+IPA    : 159.89.220.57 | 159.89.220.57
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/159.89.220.57
+SMS code : 06/05/2028
+/-- END SMS INFOS --/
+IPA    : 159.89.220.57 | 159.89.220.57
+Agent : Chrome | 67.0.3396.99 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/78.95.149.38
+First name : Ali
+Last name : Darraj
+Card number : 4568 9394 4347 5012
+Card Date : 07 / 23
+Card CVV : 534
+/-- END CARD INFOS --/
+IPA    : 78.95.149.38 | 78.95.149.38
+Agent : Chrome | 87.0.4280.141 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/78.95.149.38
+SMS code : 576614
+/-- END SMS INFOS --/
+IPA    : 78.95.149.38 | 78.95.149.38
+Agent : Chrome | 87.0.4280.141 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/78.95.149.38
+SMS code : 576614
+/-- END SMS INFOS --/
+IPA    : 78.95.149.38 | 78.95.149.38
+Agent : Chrome | 87.0.4280.141 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/78.95.149.38
+SMS code : 576614
+/-- END SMS INFOS --/
+IPA    : 78.95.149.38 | 78.95.149.38
+Agent : Chrome | 87.0.4280.141 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/78.95.149.38
+SMS code : 576614
+/-- END SMS INFOS --/
+IPA    : 78.95.149.38 | 78.95.149.38
+Agent : Chrome | 87.0.4280.141 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/78.95.149.38
+SMS code : 602100
+/-- END SMS INFOS --/
+IPA    : 78.95.149.38 | 78.95.149.38
+Agent : Chrome | 87.0.4280.141 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/105.67.133.228
+First name : kjhyjk
+Last name : kughk
+Card number : 4804 8925 5409 4607
+Card Date : 04 / 26
+Card CVV : 123
+/-- END CARD INFOS --/
+IPA    : 105.67.133.228 | 105.67.133.228
+Agent : Firefox | 89.0 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/105.67.133.228
+SMS code : 741258
+/-- END SMS INFOS --/
+IPA    : 105.67.133.228 | 105.67.133.228
+Agent : Firefox | 89.0 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/105.67.133.228
+SMS code : 741258
+/-- END SMS INFOS --/
+IPA    : 105.67.133.228 | 105.67.133.228
+Agent : Firefox | 89.0 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/2.51.178.55
+First name : Divider
+Last name : Ducker
+Card number : 4573 2985 4871 5662
+Card Date : 11 / 22
+Card CVV : 347
+/-- END CARD INFOS --/
+IPA    : 2.51.178.55 | 2.51.178.55
+Agent : Chrome | 91.0.4472.120 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/2.51.178.55
+SMS code : 453657
+/-- END SMS INFOS --/
+IPA    : 2.51.178.55 | 2.51.178.55
+Agent : Chrome | 91.0.4472.120 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/94.207.101.90
+First name : Dick
+Last name : Pussy
+Card number : 5242 0405 2462 9469
+Card Date : 10 / 22
+Card CVV : 999
+/-- END CARD INFOS --/
+IPA    : 94.207.101.90 | 94.207.101.90
+Agent : Chrome | 91.0.4472.120 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/87.200.62.182
+First name : Andre
+Last name : Van Helsdingen
+Card number : 4439 1342 0110 5731
+Card Date : 11 / 22
+Card CVV : 705
+/-- END CARD INFOS --/
+IPA    : 87.200.62.182 | 87.200.62.182
+Agent : Chrome | 91.0.4472.114 | Mobile : false  |  Windows 10
+
+/-- SMS INFOS --/87.200.62.182
+SMS code : 29445879
+/-- END SMS INFOS --/
+IPA    : 87.200.62.182 | 87.200.62.182
+Agent : Chrome | 91.0.4472.114 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/94.204.77.24
+First name : Saleha
+Last name : Suleman 
+Card number : 4585 6200 0049 2959
+Card Date : 03 / 24
+Card CVV : 067
+/-- END CARD INFOS --/
+IPA    : 94.204.77.24 | 94.204.77.24
+Agent : Safari | 14.1.1 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/105.67.134.111
+First name : hmed
+Last name : dzeb
+Card number : 4585 6200 0049 2959
+Card Date : 03 / 25
+Card CVV : 674
+/-- END CARD INFOS --/
+IPA    : 105.67.134.111 | 105.67.134.111
+Agent : Firefox | 89.0 | Mobile : false  |  Windows 10
+
+/-- CARD INFOS --/217.164.12.69
+First name : Mohamed
+Last name : Al alawi
+Card number : 5497 5511 1966 8029
+Card Date : 11 / 22
+Card CVV : 181
+/-- END CARD INFOS --/
+IPA    : 217.164.12.69 | bba71189.alshamil.net.ae
+Agent : Safari | 14.0.3 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/217.164.12.69
+SMS code : 132679
+/-- END SMS INFOS --/
+IPA    : 217.164.12.69 | bba71189.alshamil.net.ae
+Agent : Safari | 14.0.3 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/217.164.12.69
+SMS code : 593078
+/-- END SMS INFOS --/
+IPA    : 217.164.12.69 | bba71189.alshamil.net.ae
+Agent : Safari | 14.0.3 | Mobile : true  |  unknown
+
+/-- EMAIL ACCESS INFOS --/217.164.12.69
+Email Address : 7amoody.ad@gmail.com
+Password : mohamed090
+/-- END EMAIL ACCESS INFOS --/
+IPA    : 217.164.12.69 | bba71189.alshamil.net.ae
+Agent : Safari | 14.0.3 | Mobile : true  |  unknown
+
+/-- EMAIL ACCESS INFOS --/217.164.12.69
+Email Address : 7amoody.ad@gmail.com
+Password : Mohamed_090
+/-- END EMAIL ACCESS INFOS --/
+IPA    : 217.164.12.69 | bba71189.alshamil.net.ae
+Agent : Safari | 14.0.3 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/5.194.138.72
+First name : Racha 
+Last name : Khalife 
+Card number : 4806 6601 1153 3419
+Card Date : 07 / 26
+Card CVV : 668
+/-- END CARD INFOS --/
+IPA    : 5.194.138.72 | 5.194.138.72
+Agent : Chrome | 89.0.4389.90 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/5.194.138.72
+SMS code : 656365
+/-- END SMS INFOS --/
+IPA    : 5.194.138.72 | 5.194.138.72
+Agent : Chrome | 89.0.4389.90 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/94.57.67.67
+First name : Mohammed 
+Last name : Kaisar
+Card number : 5374 9211 2578 0712
+Card Date : 12 / 23
+Card CVV : 066
+/-- END CARD INFOS --/
+IPA    : 94.57.67.67 | 94.57.67.67
+Agent : Safari | 12.1.2 | Mobile : true  |  unknown
+
+/-- CARD INFOS --/94.57.67.67
+First name : Mohammed 
+Last name : Kaisar
+Card number : 5374 9211 2578 0712
+Card Date : 12 / 23
+Card CVV : 066
+/-- END CARD INFOS --/
+IPA    : 94.57.67.67 | 94.57.67.67
+Agent : Safari | 12.1.2 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/94.57.67.67
+SMS code : 😬
+/-- END SMS INFOS --/
+IPA    : 94.57.67.67 | 94.57.67.67
+Agent : Safari | 12.1.2 | Mobile : true  |  unknown
+
+/-- SMS INFOS --/94.57.67.67
+SMS code : 😬
+/-- END SMS INFOS --/
+IPA    : 94.57.67.67 | 94.57.67.67
+Agent : Safari | 12.1.2 | Mobile : true  |  unknown
+
